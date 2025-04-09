@@ -5,6 +5,8 @@ function App() {
   return (
     <>
       <h1>Learn Web Development</h1>
+      <LanguageCard />
+      <Button />
     </>
   );
 }
